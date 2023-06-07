@@ -2,7 +2,8 @@
 ## Aim :
 To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
-##Components Required: Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
+## Components Required:
+Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
 
 
 ## Theory 
@@ -30,7 +31,7 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 
 
-Procedure:
+## Procedure:
 
 
 1) Place the given object on table (Workspace).
@@ -40,17 +41,22 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+// Roll no: 212222230072
 
-//Name:
+//Name: LATHIKESHWARAN J
 MoveJ ................
+![o1](https://github.com/LATHIKESHWARAN/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/119393556/1bd6cfd1-ee2c-4857-a8a7-a987e8f999cd)
+![o2](https://github.com/LATHIKESHWARAN/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/119393556/31642548-50e8-4767-8c1c-ddb53320899f)
+![o3](https://github.com/LATHIKESHWARAN/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/119393556/52dd8f8a-25e1-49a0-b3e9-ffaec432bab7)
+
 
 ## output : 
+![o4](https://github.com/LATHIKESHWARAN/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/119393556/44638c4b-bc8f-40ab-b4ee-78a047951c6e)
 
 
 ## Results: 
 
-
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
